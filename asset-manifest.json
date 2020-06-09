@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//illya1074.github.io/addnote/static/css/main.a96d4ab0.chunk.css",
+    "main.js": "//illya1074.github.io/addnote/static/js/main.91ceed12.chunk.js",
+    "main.js.map": "//illya1074.github.io/addnote/static/js/main.91ceed12.chunk.js.map",
+    "runtime-main.js": "//illya1074.github.io/addnote/static/js/runtime-main.f8a7dcc8.js",
+    "runtime-main.js.map": "//illya1074.github.io/addnote/static/js/runtime-main.f8a7dcc8.js.map",
+    "static/js/2.7230cc81.chunk.js": "//illya1074.github.io/addnote/static/js/2.7230cc81.chunk.js",
+    "static/js/2.7230cc81.chunk.js.map": "//illya1074.github.io/addnote/static/js/2.7230cc81.chunk.js.map",
+    "index.html": "//illya1074.github.io/addnote/index.html",
+    "precache-manifest.ba19bdb617c4fe2c3b551ec5e9a601fd.js": "//illya1074.github.io/addnote/precache-manifest.ba19bdb617c4fe2c3b551ec5e9a601fd.js",
+    "service-worker.js": "//illya1074.github.io/addnote/service-worker.js",
+    "static/css/main.a96d4ab0.chunk.css.map": "//illya1074.github.io/addnote/static/css/main.a96d4ab0.chunk.css.map",
+    "static/js/2.7230cc81.chunk.js.LICENSE.txt": "//illya1074.github.io/addnote/static/js/2.7230cc81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8a7dcc8.js",
+    "static/js/2.7230cc81.chunk.js",
+    "static/css/main.a96d4ab0.chunk.css",
+    "static/js/main.91ceed12.chunk.js"
+  ]
+}
